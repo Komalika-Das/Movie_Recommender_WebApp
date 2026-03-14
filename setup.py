@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "Movie_Recommendation_System_using_Collaborative_Approach_by_Vectorization"
-AUTHOR_USER_NAME = "Abu-Said-Akunji"
+REPO_NAME = "Movie_Recommender_WebApp"
+AUTHOR_USER_NAME = "Komalika Das"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = ['streamlit']
 

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 import matplotlib as plt
 import os
-os.chdir('C:/Abu Said Akunji Personal/Coding/Minor_Project/Movie_Recommendation_System_using_KNN/knn_movie_recommender-master')
+os.chdir('C:\Users\KIIT\OneDrive\Documents\Minor Project\Movie_Recommendation_System_using_KNN_-_Cumilative_Filtering-main\Movie_Recommender_WebApp')
 
 
 # Load dataset to a data frame

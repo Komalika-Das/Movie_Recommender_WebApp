@@ -92,9 +92,9 @@ def recommend_year(release_date):
 
 
 st.header('Movie Recommender System Using Machine Learning')
-movies = pickle.load(open('data/movie_list.pkl','rb'))
-similarity1 = pickle.load(open('data/similarity1.pkl','rb'))
-similarity2 = pickle.load(open('data/similarity2.pkl','rb'))
+movies = pickle.load(open('movie_list.pkl','rb'))
+similarity1 = pickle.load(open('similarity1.pkl','rb'))
+similarity2 = pickle.load(open('similarity2.pkl','rb'))
 
 
 apps = ['--Select--', 'Movie based', 'Year based']
