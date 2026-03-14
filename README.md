@@ -1,0 +1,2 @@
+# Movie_Recommender_WebApp
+Developed a movie recommendation system using K-Nearest Neighbors (KNN) and collaborative filtering techniques to suggest relevant movies based on user preferences. The system analyzes movie similarity using multiple genre combinations and allows users to search movies through name-based and year-based filtering. Implemented data processing and similarity calculations to generate personalized recommendations.
